@@ -1,0 +1,97 @@
+
+.mainfooterlast{
+    width:100%;
+    height:430px;
+    background-color: rgb(0, 0, 0);
+    border-start-start-radius:150%;
+    border-start-end-radius:0%;
+}
+
+#footerheading{
+    text-align:center;
+}
+
+#logoofcafe{
+    border-top-left-radius:30%;
+}
+
+@media screen and (max-width:400px) {
+    #footerheading{
+    color:green;
+    }
+    }
+
+.mainfooterlast input{
+    margin-left:550px;
+    border:none;
+    background-color:rgb(4, 251, 62);
+    padding:3px 130px 7px 10px;
+    margin-top:10px;
+    color:blue;
+    border-radius:10px;
+    font-size:20px;
+}
+
+@media screen and (max-width:400px) {
+.mainfooterlast input{
+    margin-left:10px;
+    width:330px;
+}
+}
+
+.permainfoot{
+    width:80%;
+    height:300px;
+    margin-left:170px;
+    margin-top:30px;
+}
+
+@media screen and (max-width:400px){
+    .permainfoot{
+        margin-left:0px;
+        width:100%;
+    }
+}
+
+@media screen and (max-width:400px){
+    #logoofcafe{
+    border-radius:50%;
+    }
+}
+
+.halfofmainfooter{
+    width:50%;
+    height:300px;
+    float:left;
+}
+
+#followheading{
+    color:white;
+}
+
+.footerimgoflogo{
+    width:60px;
+    margin-top:20px;
+    margin-left:20px;
+    border-radius:50%;
+}
+
+@media screen and (max-width:400px){
+    .footerimgoflogo{
+        margin-left:8px;
+        width:40px;
+    }
+}
+
+#paraoflast{
+    margin-top:20px;
+    font-size:24px;
+    color:white;
+}
+
+
+@media screen and (max-width:400px){
+    #paraoflast{
+        margin-left:14px;
+    }
+}
