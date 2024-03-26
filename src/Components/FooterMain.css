@@ -15,7 +15,7 @@
     border-top-left-radius:30%;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:600px) {
     #footerheading{
     color:green;
     }
@@ -33,7 +33,7 @@
     font-size:20px;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:600px) {
 .mainfooterlast input{
     margin-left:10px;
     width:330px;
@@ -47,14 +47,14 @@
     margin-top:30px;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .permainfoot{
         margin-left:0px;
         width:100%;
     }
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     #logoofcafe{
     border-radius:50%;
     }
@@ -77,7 +77,7 @@
     border-radius:50%;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .footerimgoflogo{
         margin-left:8px;
         width:40px;
@@ -91,7 +91,7 @@
 }
 
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     #paraoflast{
         margin-left:14px;
     }

@@ -4,7 +4,7 @@
     background-color:rgb(0, 0, 0);
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .fourthcont{
         height:1000px;
     }
@@ -17,7 +17,7 @@
 }
 
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .percentoffourth{
         height:auto;
         width:100%;
@@ -31,7 +31,7 @@
     float:left;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .shefpart{
         width:100%;
     }
@@ -44,7 +44,7 @@
     margin-top:50px;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .shefpart img{
         width:100%;
         margin-top:0px;

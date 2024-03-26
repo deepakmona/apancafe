@@ -6,7 +6,7 @@
     background-image:url("../Pictures/frontimg.jpg");
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .maincont{
         background-size: 100%   100%; 
         height:507px;
@@ -19,7 +19,7 @@
     margin:auto;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .secondfront{
         width:100%;
 
@@ -34,7 +34,7 @@
     margin-top:70px;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:600px) {
     .halfoffrontcont{
         width:100%;
       margin-left:0px;  
@@ -49,18 +49,25 @@
     font-weight:500;
 }
 
+
 .halfoffrontcont h1{
     color:white;
     font-size:50px;
     margin-left:20px;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:600px) {
     .halfoffrontcont h1{
       font-size:40px;
     }
 }
 
+
+@media screen and (min-width:601px) and (max-width:1100px){
+    .halfoffrontcont h1{
+        font-size:30px;
+    }
+}
 
 #coffequoate{
     margin-left:20px;
@@ -79,12 +86,20 @@
     margin-top:30px;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:600px) {
     .halfoffrontcont button{
       margin-left:10px;
       padding:7px 25px;
     }
 }
+
+
+@media screen and (min-width:601px) and (max-width:1100px){
+    .halfoffrontcont button{
+    margin-top:20px;
+    }
+}
+
 
 .halfoffrontcont img{
    display:none;
