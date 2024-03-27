@@ -10,6 +10,13 @@
     }
 }
 
+@media screen and (min-width:601px) and (max-width:1100px) {
+    .fourthcont{
+    height:600px;
+    }
+}
+
+
 .percentoffourth{
     width:80%;
     height:499px;
@@ -20,6 +27,12 @@
 @media screen and (max-width:600px){
     .percentoffourth{
         height:auto;
+        width:100%;
+    }
+}
+
+@media screen and (min-width:601) and (max-width:1100px){
+    .percentoffourth{
         width:100%;
     }
 }

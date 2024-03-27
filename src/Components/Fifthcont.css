@@ -12,6 +12,7 @@
     }
 }
 
+
 #tms{
     text-align:center;
     color:aqua;
@@ -29,6 +30,13 @@
         width:100%;
         margin-left:0px;
         margin-top:0px;
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:1100px) {
+    .halfoffifth{
+        width:58%;
+        margin-left:-70px;
     }
 }
 

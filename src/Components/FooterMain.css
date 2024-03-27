@@ -40,6 +40,14 @@
 }
 }
 
+@media screen and (min-width:601px) and (max-width:1100px) {
+.mainfooterlast input{
+    margin-left:250px;
+    border:1px solid green;
+    width:330px;
+}
+}
+
 .permainfoot{
     width:80%;
     height:300px;
